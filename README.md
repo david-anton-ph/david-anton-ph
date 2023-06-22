@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Ph 👋
 
 <!--
 **david-anton-ph/david-anton-ph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🖱️🖥️ I'm currently working on Mandalorians squad 🔋🔌
+🖱️🖥️ I'm currently working on Mandalorians squad 🔋🔌 \n
 This is the way .... ✅🔭
