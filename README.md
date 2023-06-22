@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🖱️🖥️ I'm currently working on Mandalorians squad 🔋🔌 \n
+🖱️🖥️ I'm currently working on Mandalorians squad 🔋🔌 
+
 This is the way .... ✅🔭
